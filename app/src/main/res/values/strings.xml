@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Let\'s Go App</string>
+
+    <!-- Text Strings -->
+    <string name="text_free_shipping_orders">Free shipping on all orders</string>
+
+    <!-- Action Buttons -->
+    <string name="action_click_me">CLICK ME!</string>
+
+    <!-- Toast Messages -->
+    <string name="toast_message_click_me">Button is clicked</string>
+</resources>
